@@ -1,0 +1,61 @@
+
+body,h1,h2,h3,h4,h5,h6{
+    font-family: 'Work Sans', sans-serif;
+}
+.main-section-bg{
+    background: #f9f9ff;
+}
+.border-img{
+    border-radius: 5px;
+}
+.header-conten{
+    margin-top: 160px;
+}
+.contact-number{
+    background: #8490ff;
+}
+/* list section */
+.list-item h2{
+    background: #f5f5fc;
+    display: inline-block;
+    width: 120px;
+    height: 120px;
+    line-height: 120px;
+    border-radius: 50%;
+}
+.list-item ul{}
+.list-item ul li{
+    list-style: none;
+    line-height: 60px;
+}
+/* about section */
+.about-item{
+    margin-top: 120px;
+}
+.about-item .card {
+    border: none;
+    padding: 20px;
+}
+.about-item .card img{
+    width: 120px;
+    height: auto;
+    margin-top: -101px;
+    margin-left: 15px;
+}
+.card-body a:hover{
+    background: #465053;
+    color: white;
+}
+.contact-us{
+    margin-top: 80px;
+    margin-left: 40px;
+}
+.footer-sec{
+    background:#04091e ;
+}
+.btn-footer{
+    color: white;
+}
+.btn-footer:hover{
+    background: white;
+}
